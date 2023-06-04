@@ -1,0 +1,1 @@
+String api = 'https://newsapi.org/v2/everything?q=tesla&from=2023-05-04&sortBy=publishedAt&apiKey=d73f1b10a375410fb29e1e04d3f72f08';
